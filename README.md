@@ -1,2 +1,7 @@
 # Postcard-Exercise
 First Exercise of the Pre-Work at 4Geeks Academy
+
+Para completar este ejercicio me he basado fundamentalmente de los consejos del learnpack; muchos de los comandos que use y que no recordaba los extraje de w3schools tanto del apartado de HTML reference como CSS reference y luego también he hecho un uso sano de ChatGPT, quiero dejar bien claro que ChatGPT lo he usado a modo de profesor cuando no entendía que hacía un tag o bien conceptos de CSS que con diferencia se me hacen más complejos. 
+
+HTML me parece más intuitivo, CSS al menos de momento tampoco parece complejo, pero tengo SERIOS problemas a la hora de usar ya sea el uno u el otro para posicionar elementos dentro del website, existen muchos comandos que sirven para tal fin y todos ellos pueden funcionar de forma idéntica o radicalmente distinta aceptando valores genéricos como puede ser "align top, left..."
+o bien por píxeles o incluso por %. Luego están las posiciones relativas y absolutas que no termino de comprender su funcionamiento y utilidad en si mismo. La mayor dificultad que tengo al comprender este hecho en concreto es que no comprendo respecto a que está ajustando el elemento que estoy moviendo, es decir, si usa % puedo razonarlo, si usa píxeles no lo llego a entender porque existen pantallas de diferentes resoluciones, por lo que lo que estará alineado en una pantalla no lo estará en otra de distinta resolución, luego en el ejemplo de posición izq,dcha,arriba,abajo también puedo llegar a deducirlo...
